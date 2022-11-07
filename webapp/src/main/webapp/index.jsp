@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  <h6>version 2</h6>
+  <h6>version 2.1</h6>
 </form>
